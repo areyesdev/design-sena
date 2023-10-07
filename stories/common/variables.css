@@ -1,0 +1,19 @@
+:root {
+  --primary-blue-darling: #23C3FD;
+  --primary-blue: #1A2233;
+  --primary-gray: #787676;
+  --primary-gray-light: #B1B1B1;
+  --primary-gray-lighter: #EFEFEF;
+  --primary-white: #fff;
+  --secondary-green: #D2F7EC;
+  --secondary-pink: #F9DCDC;
+  --secondary-yellow: #FEF878;
+  --hover-blue-darling: rgba(60, 144, 255, 0.7);
+  --hover-blue: rgb(26 34 51 / 75%);
+  --hover-white: rgb(255 255 255 / 70%);
+  --body-12: 12px;
+  --body-14: 14px;
+  --body-16: 16px;
+  --h2: 32px;
+  --h1:40px;
+}
